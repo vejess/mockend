@@ -25,7 +25,8 @@
         "string": {}
     },
     "programs": {
-      "hasMany": "Program"
+      "hasMany": "Program",
+      "belongsTo": "Program"
     }
   },
   "Program": {
