@@ -26,7 +26,6 @@
     },
     "programs": {
       "hasMany": "Program",
-      "belongsTo": "Program"
     }
   },
   "Program": {
@@ -36,6 +35,9 @@
         "maxLength": 50
       }
     },
+    "school":{      
+      "belongsTo": "Program"
+             },
         "type_program": {
       "string": [
         "Full time - 1 year",
