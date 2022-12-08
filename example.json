@@ -6,7 +6,7 @@
         "logo": "https://crm.test.atendia.net/resources/schools/logos/aarhus-bss-aarhus-university-541044.webp?mode=bestFit&width=120&height=100&cache=true",
         "programs": [
             {
-                "id": 345,
+                "id": 8,
                 "name": "Masters program 1",
                 "type_program": "Full time - 1 year",
                 "campuses": [
@@ -59,14 +59,14 @@
         ]
     },
     {
-        "id": 56,
-        "name": "Aarhus BSS, Aarhus University",
-        "slug": "aarhus-bss-aarhus-university",
+        "id": 1316,
+        "name": "Aalto EMBA",
+        "slug": "aalto-emba",
         "logo": "https://crm.test.atendia.net/resources/schools/logos/aarhus-bss-aarhus-university-541044.webp?mode=bestFit&width=120&height=100&cache=true",
         "programs": [
             {
-                "id": 345,
-                "name": "Masters program 1",
+                "id": 5320,
+                "name": "IU International University of Applied Sciences - Online Studies",
                 "type_program": "Full time - 1 year",
                 "campuses": [
                     {
@@ -74,24 +74,19 @@
                         "country": "United Kingdom",
                         "continent": "Europe"
                     },
-                    {
-                        "id": 43,
-                        "country": "Canada",
-                        "continent": "Nort America"
-                    }
                 ]
             }
         ]
     },
     {
-        "id": 56,
-        "name": "Aarhus BSS, Aarhus University",
-        "slug": "aarhus-bss-aarhus-university",
+        "id": 83,
+        "name": "Bahcesehir University",
+        "slug": "bahcesehir-university",
         "logo": "https://crm.test.atendia.net/resources/schools/logos/aarhus-bss-aarhus-university-541044.webp?mode=bestFit&width=120&height=100&cache=true",
         "programs": [
             {
-                "id": 345,
-                "name": "Masters program 1",
+                "id": 5321,
+                "name": "Master Of Science in Digital Marketing",
                 "type_program": "Full time - 1 year",
                 "campuses": [
                     {
