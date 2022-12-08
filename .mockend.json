@@ -20,6 +20,31 @@
     },
     "logo": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+    },
+    "slug": {
+        "string": {}
+    },
+    "programs": {
+      "hasMany": "Program"
     }
+  },
+  "Program": {
+        "name": {
+      "loremParagraphs": {
+        "minLength": 10,
+        "maxLength": 50
+      }
+    },
+        "type_program": {
+      "string": [
+        "Full time - 1 year",
+        "Full time - 2 years",
+        "Part time - Modular",
+        "Part time - Modular",
+        "Part time - Weekend",
+        "Executive",
+        "Distance / Online"
+      ]
+    },
   }
 }
