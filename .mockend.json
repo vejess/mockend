@@ -10,5 +10,16 @@
     "post": {
       "belongsTo": "Post"
     }
+  },
+  "School": {
+    "name": {
+      "loremParagraphs": {
+        "minLength": 10,
+        "maxLength": 100
+      }
+    },
+    "logo": {
+      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+    }
   }
 }
