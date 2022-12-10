@@ -127,5 +127,30 @@
                 ]
             }
         ]
+    },
+      {
+        "id": 98,
+        "name": "Chinese University Of Hong Kong",
+        "slug": "aarhus-bss-aarhus-university",
+        "logo": "https://crm.test.atendia.net/resources/schools/logos/aarhus-bss-aarhus-university-541044.webp?mode=bestFit&width=120&height=100&cache=true",
+        "programs": [
+            {
+                "id": 345,
+                "name": "Masters program 1",
+                "type_program": "Online",
+                "campuses": [
+                    {
+                        "id": 343,
+                        "country": "United Kingdom",
+                        "continent": "Europe"
+                    },
+                    {
+                        "id": 43,
+                        "country": "United States of America",
+                        "continent": "Nort America"
+                    }
+                ]
+            }
+        ]
     }
 ]
